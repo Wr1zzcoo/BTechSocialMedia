@@ -5,3 +5,6 @@ This is a simple social media project where users can register and make friends 
 Authentication:- custom authentication 
 Middlewares
 - admin middleware
+## Roadmap 
+-post like features(in the next 3 days)
+-Comment like features
